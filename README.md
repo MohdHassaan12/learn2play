@@ -86,4 +86,4 @@ npm run dev
 
 ## 📄 License & Credits
 Licensed under the ISC License. 
-Designed and Developed by **Md Hasssa** & Contributors.
+Designed and Developed by **Md Hassan** & Contributors.
